@@ -17,13 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-  *Dekstop*
   <p align="center">
-    ![](./screenshoot/dekstop.png)
+    <img src="/screenshoot/dekstop.png">
   </p>
 
   <p align="center">
-    ![](./screenshoot/mobile.png)
+    <img src="/screenshoot/mobile.png">
   </p>
 
 
