@@ -17,19 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<figure>
-    <img src="./screenshoot/dekstop.png"
+  <p>Dekstop Preview</p>
+  <img src="./screenshoot/dekstop.png"
          alt="Dekstop Preview">
-    <figcaption>Dekstop Preview</figcaption>
-</figure>
 
-
-
-<figure>
-    <img src="./screenshoot/mobile.png"
+  <p>Mobile Preview</p>
+  <img src="./screenshoot/mobile.png"
          alt="Mobile Preview">
-    <figcaption>Mobile Preview</figcaption>
-</figure>
 
 ### Links
 
