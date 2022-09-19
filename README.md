@@ -18,10 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
   <p align="center">
+    <p>Dekstop</p>
     <img src="/screenshoot/dekstop.png">
   </p>
 
   <p align="center">
+    <p>Mobile</p>
     <img src="/screenshoot/mobile.png">
   </p>
 
