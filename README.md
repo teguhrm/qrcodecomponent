@@ -23,6 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     <figcaption>Dekstop Preview</figcaption>
 </figure>
 
+
+
 <figure>
     <img src="./screenshoot/mobile.png"
          alt="Mobile Preview">
