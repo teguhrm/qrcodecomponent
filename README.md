@@ -18,10 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
   *Dekstop*
-![](./screenshoot/dekstop.png)
+  <p align="center">
+    ![](./screenshoot/dekstop.png)
+  </p>
 
-  *Mobile*
-![](./screenshoot/mobile.png)
+  <p align="center">
+    ![](./screenshoot/mobile.png)
+  </p>
+
 
 ### Links
 
