@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-  <p>Dekstop</p>
-![](./screenshoot/dekstop.png)
+![Dekstop Preview](./screenshoot/dekstop.png)
+*Dekstop Preview*
 
-  <p>Mobile</p>
-![](./screenshoot/mobile.png)
+![Mobile Preciew](./screenshoot/mobile.png)
+*Mobile Preview*
 
 ### Links
 
